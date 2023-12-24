@@ -13,11 +13,12 @@ and the wide range of interests I have.
 I try to learn whatever which piques my interest, but I aim to always bring ideas to life. 
 
 Below is the list of projects in this portfolio:
+
 **Programming**
 1. Finanical Notes Calculation (Completed)
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zEJ9py69bVLPH2RoiwW_WafufVH_jT-m?usp=sharing]
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zEJ9py69bVLPH2RoiwW_WafufVH_jT-m?usp=sharing)   
 2. Neural Network Optimization (Almost Completed, I got stuck in deployment)
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zEJ9py69bVLPH2RoiwW_WafufVH_jT-m?usp=sharing]
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zEJ9py69bVLPH2RoiwW_WafufVH_jT-m?usp=sharing)
 3. Webpage, AI-Driven Language Learning App (In Progress)
 
 **Engineering**
