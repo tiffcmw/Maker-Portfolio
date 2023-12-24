@@ -22,7 +22,7 @@ Below is the list of projects in this portfolio:<br/>
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux?usp=sharing)<br/>
    [Open In Github](Financial-Notes-Valuation.ipynb)
 3. Webpage, AI-Driven Language Learning App (In Progress)
-   UI Design: [![Open In Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)](https://www.figma.com/file/yQkOhwW0I7nREIEOGni46l/Lang-Aide?type=design&node-id=0%3A1&mode=design&t=VUDZxHnPqi172BIv-1)<br/>
+   UI Design: [![Open In Figma](https://www.vectorlogo.zone/util/preview.html?image=/logos/figma/figma-icon.svg)](https://www.figma.com/file/yQkOhwW0I7nREIEOGni46l/Lang-Aide?type=design&node-id=0%3A1&mode=design&t=VUDZxHnPqi172BIv-1)<br/>
 
 **Engineering**
 1. Bluetooth Audio Spectrum Analyzer (Code Completed, In Progress)
