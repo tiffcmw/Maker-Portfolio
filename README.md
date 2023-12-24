@@ -16,12 +16,12 @@ Below is the list of projects in this portfolio:<br/>
 
 **Programming**
 1. Finanical Notes Valuation (Completed)<br/>
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zEJ9py69bVLPH2RoiwW_WafufVH_jT-m?usp=sharing)<br/>
-   [Open In Repository](Financial-Notes-Valuation.ipynb)<br/>
+   [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1zEJ9py69bVLPH2RoiwW_WafufVH_jT-m?usp=sharing)
+   [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Financial-Notes-Valuation.ipynb)<br/>
    
 2. Neural Network Optimization (Almost Completed, I got stuck in deployment)<br/>
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux?usp=sharing)<br/>
-   [Open In Repository](Neural-Network-Quantization.ipynb)<br/>
+   [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux?usp=sharing)
+   [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Neural-Network-Quantization.ipynb)<br/>
    
 3. Webpage, AI-Driven Language Learning App (In Progress)<br/>
    UI Design: [![Open In Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/yQkOhwW0I7nREIEOGni46l/Lang-Aide?type=design&node-id=0%3A1&mode=design&t=VUDZxHnPqi172BIv-1)<br/>
