@@ -25,7 +25,7 @@ Below is the list of projects in this portfolio:<br/>
    
 3. Webpage, AI-Driven Language Learning App (In Progress)<br/>
    UI Design: [![Open In Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/yQkOhwW0I7nREIEOGni46l/Lang-Aide?type=design&node-id=0%3A1&mode=design&t=VUDZxHnPqi172BIv-1)
-   [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Files/Lang Aide UI Design.pdf)<br/>
+   [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Files/Lang-Aide-UI-Design.pdf)<br/>
 
 **Engineering**
 1. Bluetooth Audio Spectrum Analyzer (Code Completed, In Progress)
