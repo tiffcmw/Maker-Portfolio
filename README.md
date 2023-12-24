@@ -21,7 +21,7 @@ Below is the list of projects in this portfolio:<br/>
    
 2. Neural Network Optimization (Almost Completed, I got stuck in deployment)<br/>
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux?usp=sharing)<br/>
-   [Open In Github](Financial-Notes-Valuation.ipynb)<br/>
+   [Open In Github](Neural-Network-Quantization.ipynb)<br/>
    
 3. Webpage, AI-Driven Language Learning App (In Progress)<br/>
    UI Design: [![Open In Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/yQkOhwW0I7nREIEOGni46l/Lang-Aide?type=design&node-id=0%3A1&mode=design&t=VUDZxHnPqi172BIv-1)<br/>
