@@ -26,10 +26,8 @@ Below is the list of projects in this portfolio:<br/>
    
 ## 2. Neural Network Optimization (Almost Completed, I got stuck in deployment)<br/>
    * Code: [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux?usp=sharing)
-   [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Neural-Network-Quantization.ipynb) <br/>
-   
-   * Video Walkthrough: [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/MY_YlnFXgYs) <br/>
-     
+   [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Neural-Network-Quantization.ipynb) <br/>  
+   * Video Walkthrough: [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/MY_YlnFXgYs) <br/>    
    * Code Snippet: <br/>
    
        * The dataloader took the most thought and gave me to most issues, but in the process allowed me to understand much more on how image and annotation processing works. Opensource datasets do not work right out the box sometimes, especially when it needs to be changed to conform to the expectated inputs of neural networks. <br/>
@@ -39,11 +37,16 @@ Below is the list of projects in this portfolio:<br/>
          (Cell denoted: In [16] in the [Github version](Neural-Network-Quantization.ipynb), or view it on Colab [here](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux#scrollTo=NVrLsN9DjLta&line=5&uniqifier=1))<br/>
    
 ## 3. Language Learning Web Application (In Progress)<br/>
+   * Code: [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Language-Learning-Web-Application)
+     
+     * I deleted a lot of administrative files (like env libraries, modules, __init__ files, random configs, yamls, cache, migration files) and changed all the keys to a placeholder, so the running the development server will return errors.
+     * I kept most of the files that I have put time editing, like the frontend and backend code, webpack config, etc.
+     * All the frontend files are in [frontend](Language-Learning-Web-Application/frontend), and the backend files are in [backend](Language-Learning-Web-Application/backend)
    * Application Demo: [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8ZCzbbDSofM)
    * UI Design: [![Open In Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/yQkOhwW0I7nREIEOGni46l/Lang-Aide?type=design&node-id=0%3A1&mode=design&t=VUDZxHnPqi172BIv-1)
    [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Files/Lang-Aide-UI-Design.pdf)<br/>
    * UX Flow: [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Files/Lang-Aide-UX-Flow.png)<br/>
-   * Code Snippet: <br/><br/>
+   * Code Snippet: May I please direct you to the [frontend](Language-Learning-Web-Application/frontend/chat.js) and [backend](Language-Learning-Web-Application/backend/lang_chat/views.py) files for the chat function. I had the most fun time coding this section and seeing messages and responses pop up. This function is also the most integral part of my application, given that it is, a conversation based app. I gave very detailed explanation and reasoning to each line of code, but cross referencing them while viewing will give the best experience. The have a lot of relations. 
 
 
 
