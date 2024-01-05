@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LangAide Login</title>
+    <!-- replying on webpack to deliver the react, since I imported it in js
+    <script src="https://unpkg.com/react/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom/umd/react-dom.development.js"></script>
+    -->
+    <script src="https://unpkg.com/@babel/standalone/babel.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- the minicssextract plugin will extract the css into seperate files -->
+    <link rel="stylesheet" href="/login.css">
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div id="app"></div>
+    <!-- the script tag should reference the bundle relative 
+        to the root of the server, not the file system -->
+    <!-- the js bundles are first created in output, stored in memory
+    and then the htmlwenpack plugin entries will look for the html files,
+    takes the script entries and generate new html files
+    referenced with bundles will generate -->
+    <script src="/login.bundle.js"></script>
+</body>
+</html>

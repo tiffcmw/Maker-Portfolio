@@ -1,0 +1,6 @@
+Traditional multi-page applications don't use React routers. 
+
+Specify which bundle to use for each page in its html file, 
+using the <script> tag. 
+And then render it in the view. 
+

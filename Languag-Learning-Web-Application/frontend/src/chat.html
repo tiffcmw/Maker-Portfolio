@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lang Aide Chat Interface</title>
+    <script src="https://unpkg.com/@babel/standalone/babel.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <!-- the minicssextract plugin will extract the css into seperate files -->
+    <link rel="stylesheet" href="/login.css">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div id="app"></div>
+    <!-- the script tag should reference the bundle relative 
+        to the root of the server, not the file system -->
+    <!-- the js bundles are first created in output, stored in memory
+    and then the htmlwenpack plugin entries will look for the html files,
+    takes the script entries and generate new html files
+    referenced bundles will generate -->
+    <script src="/chat.bundle.js"></script>
+</body>
+</html>
