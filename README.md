@@ -24,7 +24,7 @@ Below is the list of projects in this portfolio:<br/>
    
    
    
-## 2. Neural Network Optimization (Almost Completed, I got stuck in deployment)<br/>
+## 2. Neural Network Optimization <br/>
    * Code: [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux?usp=sharing)
    [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Neural-Network-Quantization.ipynb) <br/>  
    * Video Walkthrough: [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/MY_YlnFXgYs) <br/>    
@@ -36,7 +36,7 @@ Below is the list of projects in this portfolio:<br/>
        * But the part where I designed classes to configure activation and weights using custom observers is a personal touch and reference to my research, which is pretty cool too. <br/>
          (Cell denoted: In [16] in the [Github version](Neural-Network-Quantization.ipynb), or view it on Colab [here](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux#scrollTo=NVrLsN9DjLta&line=5&uniqifier=1))<br/>
    
-## 3. Language Learning Web Application (In Progress)<br/>
+## 3. Language Learning Web Application <br/>
    * Code: [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Language-Learning-Web-Application)
      
      * I deleted a lot of administrative files (like env libraries, modules, __init__ files, random configs, yamls, cache, migration files) and changed all the keys to a placeholder, so the running the development server will return errors.
