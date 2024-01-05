@@ -16,7 +16,7 @@ I try to learn whatever which piques my interest, but I aim to always bring idea
 
 Below is the list of projects in this portfolio:<br/>
 
-## 1. Finanical Notes Valuation (Completed) <br/>
+## 1. Finanical Notes Valuation <br/>
    * Code: [![Open In Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/drive/1zEJ9py69bVLPH2RoiwW_WafufVH_jT-m?usp=sharing)
    [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Financial-Notes-Valuation.ipynb)<br/>
    * Video Walkthrough: [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/5X7I4LxD7TQ)<br/>
