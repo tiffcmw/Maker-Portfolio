@@ -41,8 +41,6 @@ Below is the list of projects in this portfolio:<br/>
    * UX Flow: [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Files/Lang-Aide-UX-Flow.png)<br/>
    * Code Snippet: <br/><br/>
 
-## ⚡ Engineering
-### 1. Bluetooth Audio Spectrum Analyzer (Code Completed, In Progress)
 
 
 
