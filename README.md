@@ -36,6 +36,7 @@ Below is the list of projects in this portfolio:<br/>
          <br/> (Cell denoted: In [16] in the [Github version](Neural-Network-Quantization.ipynb), or view it on Colab [here](https://colab.research.google.com/drive/1qtjOgTuTskXLaKGdSHz88TgKX2r_Tlux#scrollTo=NVrLsN9DjLta&line=5&uniqifier=1).<br/>
    
 ### 3. Webpage, AI-Driven Language Learning App (In Progress)<br/>
+   * Application Demo: [![Open In YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/8ZCzbbDSofM)
    * UI Design: [![Open In Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/yQkOhwW0I7nREIEOGni46l/Lang-Aide?type=design&node-id=0%3A1&mode=design&t=VUDZxHnPqi172BIv-1)
    [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Files/Lang-Aide-UI-Design.pdf)<br/>
    * UX Flow: [![Open In Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](Files/Lang-Aide-UX-Flow.png)<br/>
